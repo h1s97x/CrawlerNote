@@ -1,7 +1,7 @@
 # 核心爬虫库
-requests==2.31.0
+requests==2.32.0
 beautifulsoup4==4.12.3
-lxml==5.1.0
+lxml==6.1.0
 
 # 动态内容抓取
 selenium==4.16.0
@@ -22,5 +22,5 @@ ipywidgets==8.1.1
 
 # 其他实用工具
 fake-useragent==1.4.0
-python-dotenv==1.0.0
-tqdm==4.66.1
+python-dotenv==1.2.2
+tqdm==4.66.3
